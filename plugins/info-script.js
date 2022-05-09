@@ -3,11 +3,10 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	// ‼️ NOTE: Link script Jangan diubah, dihapus atau diganti
 let text = `❏ *📮 Script Multi Device*
 │• *Script :* 
-│↳ github.com/kannachann/kannaBOT-MD
-│• *Node_Modules:*
-│↳ www.mediafire.com/file/q8ogv16wd5j7iju/node.tar.gz/file
+│↳ https://www.mediafire.com/file/cjhxn5uwaq16k2y/V1.zip/file
+│
 │• *Base :* 
-│↳ github.com/bochilgaming/games-wabot-md/
+│↳ github.com/Nurutomo/wabot-aq
 ┗──────────═┅═──────────
 
 ❏ *📮 Script Non MD*

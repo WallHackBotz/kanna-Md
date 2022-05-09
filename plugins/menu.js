@@ -470,7 +470,7 @@ const listMessage = {
                 {
                     urlButton: {
                         displayText: `🎀 ${namebot}`,
-                        url: 'https://kannxapi.herokuapp.com/'
+                        url: 'https://zeroyt7-api.xyz'
                     }
                 },
                 {
